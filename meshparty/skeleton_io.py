@@ -87,7 +87,7 @@ def read_skeleton_h5_by_part(filename):
     Parameters
     ----------
     filename : str
-        path to a h5 file with skeletons or meshworks containing skeletons
+        path to a h5 file with skeletons
 
     Returns
     -------
